@@ -35,9 +35,8 @@ I'm a passionate software developer who loves building simple, reliable, and mai
 (Replace the project placeholders above with your favorite repositories and short descriptions.)
 
 ## 📫 How to reach me
-- Email: your-email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
-- Twitter: https://twitter.com/your-twitter
+- Email: your- ddibyanshu2@gmai.com
+- LinkedIn: https://www.linkedin.com/in/dibyanshu-286ba723a
 
 ## ❤️ Open to
 - Collaborations on open-source projects
