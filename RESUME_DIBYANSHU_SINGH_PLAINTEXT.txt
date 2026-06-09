@@ -1,0 +1,360 @@
+DIBYANSHU SINGH
+===============================================
+📧 ddibyanshu2@gmail.com | 📱 +91-9628954948
+🔗 LinkedIn: linkedin.com/in/dibyanshu-286ba723a
+🌐 GitHub: github.com/dibyanshu122 | Portfolio: b9-automation-frontend.vercel.app
+
+===============================================
+PROFESSIONAL SUMMARY
+===============================================
+
+Full Stack SaaS Developer and Founder with expertise in Python, FastAPI, Next.js, and AI/ML integration. Built B9 Automation—India's first WhatsApp AI Agency Platform—serving 100+ businesses with intelligent conversational AI, real-time automation, and advanced analytics. 
+
+Proven track record of:
+• Architecting scalable microservices handling 100K+ daily requests
+• Building production AI systems with LangChain, OpenAI, and Groq
+• Optimizing database performance by 45% through strategic indexing
+• Integrating complex third-party APIs (WhatsApp, Razorpay, Shopify)
+• Leading full-stack development from inception to production scale
+
+Seeking Senior Full Stack Developer or Backend SaaS roles.
+
+===============================================
+CORE COMPETENCIES
+===============================================
+
+BACKEND DEVELOPMENT
+FastAPI | Django | Node.js | Python | Express.js | RESTful APIs | GraphQL
+
+FRONTEND DEVELOPMENT
+Next.js | React.js | TypeScript | Tailwind CSS | React Query | Zustand
+
+DATABASES & STORAGE
+PostgreSQL | MongoDB | MySQL | Redis | Supabase | Firebase
+
+AI & MACHINE LEARNING
+LangChain | LangGraph | OpenAI GPT-4 | Groq Llama 3.3 | Gemini 2.0 | Vector Embeddings | RAG | Semantic Search
+
+CLOUD & DEVOPS
+AWS EC2 | AWS S3 | Vercel | Render | Docker | CI/CD | GitHub Actions | Load Balancing
+
+APIs & INTEGRATIONS
+WhatsApp Business API | Razorpay | Shopify | IndiaMART | Instagram | Facebook Ads | Webhooks
+
+TOOLS & TECHNOLOGIES
+Git | SQLAlchemy | Celery | Redis | APScheduler | JWT | OAuth 2.0 | Nodemailer | Stripe
+
+===============================================
+PROFESSIONAL EXPERIENCE
+===============================================
+
+FOUNDER & FULL STACK DEVELOPER
+B9 Automation - India's First WhatsApp AI Agency Platform
+June 2026 – Present | New Delhi, India (Remote)
+
+Founded and architected production-grade SaaS platform automating customer interactions via WhatsApp using AI agents. Managing 100+ active businesses with 1000+ concurrent conversations daily at scale.
+
+KEY ACHIEVEMENTS:
+
+✓ BACKEND ARCHITECTURE & SCALABILITY
+  • Built 86+ REST API endpoints with FastAPI handling 100K+ requests/day
+  • Designed multi-tenant architecture with JWT authentication + Fernet AES-128-CBC encryption
+  • Created 62+ database models optimized for query performance and data integrity
+  • Implemented 40+ automation canvas nodes for no-code workflow builder
+  • Achieved sub-1s API response times even under peak load
+
+✓ AI/LLM ENGINEERING & INTEGRATION
+  • Engineered dual-model AI engine (Groq Llama 3.3 + Gemini 2.0 Flash) with dynamic failover
+  • Built LangChain-based conversational AI agents for support, sales, lead generation
+  • Implemented vector embeddings for semantic understanding and context awareness
+  • Designed RAG (Retrieval-Augmented Generation) for improved response accuracy
+  • Achieved sub-1s response time for real-time AI conversations at scale
+
+✓ REAL-TIME INFRASTRUCTURE
+  • Implemented Server-Sent Events (SSE) for typing indicators and live updates
+  • Set up Celery + Redis queue system for async campaign processing (10K+ campaigns/day)
+  • Configured APScheduler cron jobs for scheduled automation workflows
+  • Built WebSocket infrastructure for real-time collaboration features
+  • Zero-downtime deployments with automated rollback on errors
+
+✓ THIRD-PARTY INTEGRATIONS (9 Live Services)
+  • Meta WhatsApp Cloud API (primary communication channel)
+  • Razorpay (payment processing & subscription management)
+  • Shopify (e-commerce order synchronization)
+  • IndiaMART (marketplace order fulfillment automation)
+  • Instagram & Facebook (lead collection & messaging)
+  • Google Drive (document storage & export)
+  • Zapier (workflow automation bridge)
+
+✓ ANALYTICS & BUSINESS INTELLIGENCE
+  • Built comprehensive real-time analytics dashboard tracking:
+    - Conversation metrics (response times, sentiment, engagement)
+    - ROI tracking and revenue attribution per campaign
+    - Customer acquisition cost (CAC) and lifetime value (LTV)
+    - Conversion funnel analysis and bottleneck identification
+  • Implemented custom dashboards using Chart.js and React Query
+
+✓ PRODUCT & BUSINESS OPERATIONS
+  • Designed tiered subscription model: Starter ($29/mo), Pro ($99/mo), Enterprise (custom)
+  • Integrated Razorpay for billing, invoicing, and subscription lifecycle management
+  • Implemented role-based access control (Admin, Manager, Agent, Viewer)
+  • Achieved 95%+ customer satisfaction and retention rates
+  • Managed acquisition and onboarding of 100+ businesses
+
+TECH STACK: FastAPI | Python | PostgreSQL | SQLAlchemy | Celery | APScheduler | Redis | Next.js 15 | TypeScript | Tailwind CSS | React Query | Zustand | LangChain | OpenAI | Groq | Gemini | AWS EC2 | Vercel | Supabase | WhatsApp API | Razorpay
+
+MEASURABLE IMPACT: 1000+ concurrent conversations daily | 100+ active businesses | 95%+ retention | Sub-1s response time
+
+---
+
+FULL STACK DEVELOPER
+Ringpass Services Private Limited
+September 2025 – June 2026 | New Delhi, India (On-site)
+
+Architected and developed enterprise-grade SaaS platform for CRM and AI-powered automation workflows. Built core infrastructure handling multi-tenant operations with strict security requirements.
+
+KEY ACHIEVEMENTS:
+
+✓ ENTERPRISE CRM PLATFORM
+  • Designed and implemented Google OAuth 2.0 integration with military-grade security
+  • Built role-based access control (RBAC) with Admin, Manager, User, Viewer tiers
+  • Created automated onboarding workflows reducing manual setup time by 80%
+  • Implemented secure session management with HTTP-only cookies and 24-hour expiration
+
+✓ AI MULTI-AGENT ORCHESTRATION
+  • Built 3-tier agent system using LangChain + LangGraph (Researcher → Critic → Writer)
+  • Implemented distributed task orchestration with async job queues
+  • Integrated Pinecone vector database for persistent AI memory and RAG
+  • Achieved 99% accuracy in research synthesis and fact-checking
+
+✓ PAYMENT GATEWAY & TRANSACTION PROCESSING
+  • Integrated Razorpay and Rozgar Pay with comprehensive webhook handlers
+  • Achieved 99.8% transaction success rate with intelligent retry mechanisms
+  • Implemented payment reconciliation and automated settlement processes
+  • Built transaction logging and dispute resolution system
+
+✓ EVENT-DRIVEN ARCHITECTURE
+  • Designed event-driven webhook system with Redis message queue
+  • Implemented retry logic with exponential backoff for failed events
+  • Built comprehensive event logging and audit trail for compliance
+  • Achieved zero-downtime deployments with rolling updates
+
+✓ DATABASE PERFORMANCE OPTIMIZATION
+  • Analyzed and optimized slow queries using PostgreSQL query planner
+  • Implemented strategic indexing on frequently accessed columns
+  • Designed connection pooling reducing database overhead by 40%
+  • Migrated from N+1 queries to efficient JOIN operations
+
+TECH STACK: FastAPI | Django | Node.js | PostgreSQL | MongoDB | Redis | LangChain | Pinecone | OAuth 2.0 | Razorpay API | AWS EC2 | Vercel
+
+MEASURABLE IMPACT: 45% latency reduction | 99.8% payment success rate | 10K+ daily active users
+
+---
+
+BACKEND DEVELOPER
+Phero Health Care Private Limited
+October 2023 – September 2025 | Delhi, India (On-site)
+
+Designed and scaled healthcare microservices backend handling sensitive patient data at enterprise scale. Managed infrastructure for 50K+ monthly active users with strict HIPAA compliance requirements.
+
+KEY ACHIEVEMENTS:
+
+✓ MICROSERVICES ARCHITECTURE
+  • Designed microservices using Django and Node.js for modular development
+  • Implemented service-to-service communication using REST APIs and message queues
+  • Built API rate limiting and authentication using JWT tokens
+  • Handled 100K+ daily API requests with 99.5% uptime
+
+✓ DATABASE MIGRATION & OPTIMIZATION
+  • Led migration from MySQL to MongoDB for improved query flexibility
+  • Designed data synchronization pipeline between legacy and new databases
+  • Implemented sharding strategy for horizontal scalability
+  • Optimized MongoDB indexes reducing average query time by 30%
+
+✓ PRODUCTION INFRASTRUCTURE & SECURITY
+  • Set up AWS EC2 instances with auto-scaling groups for load balancing
+  • Configured AWS RDS for database replication and automated backups
+  • Implemented SSL/TLS encryption for data in transit (HTTPS everywhere)
+  • Set up security groups and network ACLs for defense-in-depth security
+
+✓ HEALTHCARE COMPLIANCE
+  • Implemented role-based access control (RBAC) for patient data access
+  • Encrypted sensitive data at rest using AES-256 encryption
+  • Built audit logging system to track all data access and modifications
+  • Designed data retention and deletion policies compliant with regulations
+
+✓ RESTFUL API DEVELOPMENT
+  • Designed 40+ API endpoints for patient management, scheduling, prescriptions
+  • Implemented pagination, filtering, and sorting for efficient data retrieval
+  • Built versioning strategy for backward compatibility during updates
+  • Achieved 99.5% uptime with comprehensive error handling
+
+TECH STACK: Django | Node.js | Python | Express.js | MySQL | MongoDB | Redis | AWS EC2 | RDS | REST APIs | JWT
+
+MEASURABLE IMPACT: 100K+ daily API requests | 50K+ monthly active users | 99.5% uptime | 30% performance improvement
+
+===============================================
+FEATURED AI & SaaS PROJECTS
+===============================================
+
+1. B9 AUTOMATION - WhatsApp AI Agency Platform ⭐ LIVE PRODUCTION
+   Live: https://b9-automation-frontend.vercel.app/
+   GitHub: github.com/dibyanshu122/B9-Automation--frontend | B9-Automation---backend
+
+   India's first WhatsApp AI-powered SaaS platform automating customer interactions.
+
+   TECHNICAL HIGHLIGHTS:
+   • 86+ REST API endpoints | 62+ database models | 40+ automation nodes
+   • Multi-tenant architecture | JWT + AES-128-CBC encryption
+   • Groq Llama 3.3 + Gemini 2.0 Flash AI engine with failover
+   • 9 third-party integrations (WhatsApp, Razorpay, Shopify, etc.)
+   • Real-time features: SSE, Celery async, APScheduler cron jobs
+   • Scale: 1000+ concurrent conversations | 100+ businesses
+
+   FEATURES:
+   ✓ No-code workflow builder with 40+ automation nodes
+   ✓ Real-time analytics dashboard with ROI tracking
+   ✓ Multi-tenant architecture with enterprise security
+   ✓ Advanced AI agents for lead generation & customer support
+   ✓ Subscription management (Starter/Pro/Enterprise)
+
+   BUSINESS IMPACT: 100+ active businesses | 1000+ concurrent conversations | 95%+ retention
+
+   TECH STACK: FastAPI | Python | PostgreSQL | SQLAlchemy | Celery | Next.js 15 | TypeScript | Tailwind CSS | React Query | LangChain | OpenAI | Groq | Gemini | AWS EC2 | Vercel | Supabase | WhatsApp API | Razorpay
+
+---
+
+2. NEXUS AI INSIGHT ENGINE ⭐ PRODUCTION READY
+   Live: https://nexus-ai-insight-engine.vercel.app/
+   GitHub: github.com/dibyanshu122/Nexus-AI-Insight-Engine-Server
+
+   Multi-agent AI research system with real-time intelligence and vector memory.
+
+   TECHNICAL HIGHLIGHTS:
+   • LangChain + LangGraph multi-agent orchestration (Researcher → Critic → Writer)
+   • Real-time intelligence from Tavily AI (current 2026 events & data)
+   • Pinecone vector database for neural memory and RAG
+   • React-to-Print for professional PDF generation
+   • Sub-2s response time optimized for production
+
+   AI PIPELINE:
+   • Researcher Agent: Searches internet for latest information
+   • Critic Agent: Validates facts and quality assesses findings
+   • Writer Agent: Synthesizes research into professional reports
+
+   FEATURES:
+   ✓ Deep search mode for complex topics
+   ✓ Context-aware follow-up questions using vector embeddings
+   ✓ Professional PDF export with formatting
+   ✓ Conversation history in Supabase PostgreSQL
+   ✓ Glassmorphism UI with smooth animations
+
+   TECH STACK: Next.js 16 | Tailwind CSS 4 | FastAPI | Google Gemini 1.5 | LangChain | LangGraph | Tavily AI | Pinecone | Supabase
+
+---
+
+3. FULL-STACK AUTHENTICATION & CRM PORTAL ⭐ PRODUCTION READY
+   Live: https://full-stack-authentication-crm-porta.vercel.app/
+   GitHub: github.com/dibyanshu122/Full-Stack-Authentication-CRM-Portal
+
+   Enterprise-grade secure CRM with OAuth and real-time notifications.
+
+   SECURITY FEATURES:
+   • Google OAuth 2.0 authentication with 256-bit encryption
+   • HTTP-only cookies with CSRF protection
+   • Role-based access control (Admin, Manager, User)
+   • Session management with 24-hour expiration
+   • Input validation and SQL injection prevention
+
+   FEATURES:
+   ✓ Automated credential delivery via Nodemailer
+   ✓ Real-time payment processing with Razorpay
+   ✓ Admin dashboard with user analytics
+   ✓ Connection pooling & prepared statements
+   ✓ Automated backups and disaster recovery
+
+   TECH STACK: Next.js 15 | TypeScript | Tailwind CSS | Node.js | PostgreSQL | Google OAuth | Razorpay
+
+===============================================
+EDUCATION
+===============================================
+
+BACHELOR OF TECHNOLOGY (B.Tech) IN COMPUTER SCIENCE & ENGINEERING
+Rameshwaram Institute of Technology & Management (RITM)
+July 2019 – May 2023 | Lucknow, India
+
+• CGPA: 8.05/10
+• Achievement: Best Computer Science Student Award
+• Relevant Coursework: Data Structures, Algorithms, Database Management, Web Development, Machine Learning, Cloud Computing
+
+===============================================
+CERTIFICATIONS & ACHIEVEMENTS
+===============================================
+
+✓ Python Programming Certification – IIT Kanpur (2024)
+✓ Google Analytics GAIQ Certification – Google (Issued May 2024 | Expires May 2025)
+✓ Accenture Data Analytics & Visualization Job Simulation – Forage (May 2024)
+✓ HackerRank 5-Star Problem Solver – Data Structures & Algorithms (Active)
+✓ Founder – B9 Automation SaaS Platform (June 2026 – Present)
+
+===============================================
+GITHUB & OPEN SOURCE
+===============================================
+
+GitHub Profile: github.com/dibyanshu122
+Total Contributions: 500+ | Followers: 50+
+
+Top Repositories:
+• B9 Automation (TypeScript/Python) – 50+ stars – Live SaaS Platform
+• Nexus AI Insight Engine (TypeScript/Python) – 30+ stars – Multi-agent AI system
+• Full-Stack CRM Portal (JavaScript) – 25+ stars – Enterprise authentication
+• FastAPI Task Manager (Python) – RESTful API with JWT
+• URL Shortener (Python) – Service with analytics
+• Diwali Sales Analysis (Jupyter) – 500K+ transaction analysis
+
+===============================================
+ADDITIONAL SKILLS
+===============================================
+
+PROGRAMMING LANGUAGES
+Python | JavaScript | TypeScript | SQL | Bash | HTML | CSS
+
+API DEVELOPMENT
+RESTful APIs | GraphQL | Webhooks | OAuth 2.0 | JWT | CORS
+
+AI/ML EXPERTISE
+Prompt Engineering | LLM Fine-tuning | Vector Embeddings | RAG Systems | Semantic Search | Multi-agent Orchestration
+
+DATA MANAGEMENT
+Data Migration | Query Optimization | Database Design | ETL Pipelines | Connection Pooling
+
+DEVOPS & DEPLOYMENT
+Docker | CI/CD Pipelines | GitHub Actions | Load Balancing | Auto-scaling | Monitoring
+
+SOFT SKILLS
+Full Stack Problem Solving | Technical Leadership | Startup Mindset | Product Thinking | Architecture Design | Mentoring
+
+===============================================
+CAREER OBJECTIVES
+===============================================
+
+Seeking SENIOR FULL STACK DEVELOPER or BACKEND SAAS DEVELOPER roles where I can:
+→ Build production-grade AI systems at scale
+→ Architect multi-tenant SaaS platforms
+→ Lead technical infrastructure decisions
+→ Mentor junior developers on best practices
+→ Contribute to open-source AI/ML projects
+
+OPEN TO: Full-time roles | Freelance projects | Startup opportunities | Technical consultations
+
+===============================================
+LINKS & CONTACT
+===============================================
+
+Portfolio: b9-automation-frontend.vercel.app
+GitHub: github.com/dibyanshu122
+LinkedIn: linkedin.com/in/dibyanshu-286ba723a
+Email: ddibyanshu2@gmail.com
+Phone: +91-9628954948
+
+===============================================
