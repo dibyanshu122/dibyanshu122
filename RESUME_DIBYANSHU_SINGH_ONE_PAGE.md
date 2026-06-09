@@ -1,11 +1,12 @@
 # DIBYANSHU SINGH
-**Email:** ddibyanshu2@gmail.com | **Phone:** +91-9628954948 | **LinkedIn:** linkedin.com/in/dibyanshu-286ba723a  
-**GitHub:** github.com/dibyanshu122 | **Portfolio:** b9-automation-frontend.vercel.app
+
+**Email:** [📧 ddibyanshu2@gmail.com](mailto:ddibyanshu2@gmail.com) | **Phone:** [📱 +91-9628954948](tel:+919628954948)  
+**LinkedIn:** [🔗 linkedin.com/in/dibyanshu-286ba723a](https://linkedin.com/in/dibyanshu-286ba723a) | **GitHub:** [🐙 github.com/dibyanshu122](https://github.com/dibyanshu122) | **Portfolio:** [🌐 b9-automation-frontend.vercel.app](https://b9-automation-frontend.vercel.app)
 
 ---
 
 ## PROFESSIONAL SUMMARY
-Full Stack Developer with 2.6+ years of production experience building scalable SaaS platforms. Founder of B9 Automation (India's first WhatsApp AI Agency Platform). Specialized in Python backend development, AI/ML integration, and system architecture. Successfully scaled applications handling 100K+ daily requests and 1000+ concurrent users.
+Full Stack Developer with 2.6+ years of production experience building scalable SaaS platforms. Founder of B9 Automation (India's first WhatsApp AI Agency Platform). Specialized in Python backend development, AI/ML integrations, and enterprise architecture.
 
 ---
 
