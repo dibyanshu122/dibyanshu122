@@ -394,16 +394,6 @@ PDF Generation → Download
 
 ---
 
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dibyanshu122&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshu122&layout=compact&theme=radical)
-
-</div>
-
 ---
 
 ## 🎨 FEATURED REPOSITORIES
